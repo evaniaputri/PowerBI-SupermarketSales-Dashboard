@@ -64,5 +64,5 @@ This dashboard enables stakeholders to:
 
 ## 👤 Author
 
-Your Name
-(Data Analyst | Power BI Enthusiast)
+Evania Putri
+Data Analyst
