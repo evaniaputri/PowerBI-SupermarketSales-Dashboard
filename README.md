@@ -1,4 +1,4 @@
-# 📊 Supermarket Sales Dashboard (Power BI)
+<img width="2795" height="1514" alt="image" src="https://github.com/user-attachments/assets/4feb9ce1-0d74-4f0a-aa92-edfa718d4d2d" /># 📊 Supermarket Sales Dashboard (Power BI)
 
 🚀 An interactive Power BI dashboard to analyze supermarket sales performance, customer behavior, and revenue trends.
 
@@ -31,15 +31,13 @@ This project aims to transform raw transactional data into meaningful insights t
 ## 📂 Dataset
 
 Public dataset:
-https://lnkd.in/g_Rtn5-Q
+https:[//lnkd.in/g_Rtn5-Q](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Overview](images/overview.png)
-![Sales Trend](images/sales_trend.png)
-![Customer Segment](images/customer_segment.png)
+![Uploading image.png…]()
 
 ---
 
