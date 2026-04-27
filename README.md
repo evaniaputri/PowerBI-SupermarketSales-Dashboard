@@ -41,6 +41,9 @@ https:[//lnkd.in/g_Rtn5-Q](https://www.kaggle.com/datasets/aungpyaeap/supermarke
 
 ---
 
+## 🎬 Dashboard Demo
+https://youtu.be/m3DdIS-SbpM
+
 ## 🚀 Business Value
 
 This dashboard enables stakeholders to:
