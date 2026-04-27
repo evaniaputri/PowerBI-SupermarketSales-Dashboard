@@ -1,4 +1,4 @@
-#📊 Supermarket Sales Dashboard (Power BI) 
+## 📊Supermarket Sales Dashboard (Power BI) 
 
 🚀 An interactive Power BI dashboard to analyze supermarket sales performance, customer behavior, and revenue trends.
 
